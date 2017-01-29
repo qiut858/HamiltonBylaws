@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tomqiu/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/tomqiu/Downloads/jSoup/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2-04072bf8b4b7b959e1d57f490169bc44199457de.jar" />
+    </item>
+
+</items>
