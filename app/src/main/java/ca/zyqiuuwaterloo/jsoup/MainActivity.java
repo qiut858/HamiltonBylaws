@@ -176,6 +176,12 @@ public class MainActivity extends AppCompatActivity {
             //parsed_content.setText(print_to_screen);  // for debugging
             int row_num = 2;
             for (ByLaw a_law : Laws2017) {
+                /*
+                if (row_num == 2) {
+                    row_num++;
+                    continue;
+                }
+                */
                 TextView parsed_content2;
 
                 String first_row = "TextView"+String.valueOf(row_num)+"1";
