@@ -27,14 +27,9 @@
             <!-- Row 1 with two columns -->
             <TableRow
                 android:id="@+id/tableRow1"
-                android:layout_height="wrap_content"
-                android:layout_width="match_parent">
-
-                <TextView
-                    android:id="@+id/TextView11" android:text="Date Enacted"
-                    android:layout_weight="1" android:background="#dcdcdc"
-                    android:textColor="#000000"
-                    android:padding="20dip" android:gravity="center"/>
+                android:layout_height="fill_parent"
+                android:layout_width="wrap_content"
+                android:background="rgb(0,0,0)" >
 
                 <TextView
                     android:id="@+id/TextView12" android:text="Description"
@@ -47,34 +42,23 @@
 
                 <TableRow
                     android:id="@+id/tableRow2"
-                    android:layout_height="wrap_content"
-                    android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView21" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
+                    android:layout_height="fill_parent"
+                    android:layout_width="wrap_content">
 
                     <TextView
                         android:id="@+id/TextView22" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
+                        android:padding="20dip" android:gravity="center"
+                        android:layout_width="50dp"/>
 
 
                 </TableRow>
 
                 <TableRow
                     android:id="@+id/tableRow3"
-                    android:layout_height="wrap_content"
-                    android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView31" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
+                    android:layout_height="fill_parent"
+                    android:layout_width="wrap_content">
 
                     <TextView
                         android:id="@+id/TextView32" android:text=""
@@ -91,12 +75,6 @@
                     android:layout_width="match_parent">
 
                     <TextView
-                        android:id="@+id/TextView41" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
-
-                    <TextView
                         android:id="@+id/TextView42" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
@@ -109,12 +87,6 @@
                     android:id="@+id/tableRow5"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView51" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
 
                     <TextView
                         android:id="@+id/TextView52" android:text=""
@@ -131,12 +103,6 @@
                     android:layout_width="match_parent">
 
                     <TextView
-                        android:id="@+id/TextView61" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
-
-                    <TextView
                         android:id="@+id/TextView62" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
@@ -149,12 +115,6 @@
                     android:id="@+id/tableRow7"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView71" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
 
                     <TextView
                         android:id="@+id/TextView72" android:text=""
@@ -171,12 +131,6 @@
                     android:layout_width="match_parent">
 
                     <TextView
-                        android:id="@+id/TextView81" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
-
-                    <TextView
                         android:id="@+id/TextView82" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
@@ -189,12 +143,6 @@
                     android:id="@+id/tableRow9"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView91" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
 
                     <TextView
                         android:id="@+id/TextView92" android:text=""
@@ -211,12 +159,6 @@
                     android:layout_width="match_parent">
 
                     <TextView
-                        android:id="@+id/TextView101" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
-
-                    <TextView
                         android:id="@+id/TextView102" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
@@ -229,12 +171,6 @@
                     android:id="@+id/tableRow11"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView111" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
 
                     <TextView
                         android:id="@+id/TextView112" android:text=""
@@ -251,12 +187,6 @@
                     android:layout_width="match_parent">
 
                     <TextView
-                        android:id="@+id/TextView121" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
-
-                    <TextView
                         android:id="@+id/TextView122" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
@@ -269,12 +199,6 @@
                     android:id="@+id/tableRow13"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView131" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
 
                     <TextView
                         android:id="@+id/TextView132" android:text=""
@@ -291,12 +215,6 @@
                     android:layout_width="match_parent">
 
                     <TextView
-                        android:id="@+id/TextView141" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
-
-                    <TextView
                         android:id="@+id/TextView142" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
@@ -311,12 +229,6 @@
                     android:layout_width="match_parent">
 
                     <TextView
-                        android:id="@+id/TextView151" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
-
-                    <TextView
                         android:id="@+id/TextView152" android:text=""
                         android:layout_weight="1" android:background="#dcdcdc"
                         android:textColor="#000000"
@@ -329,12 +241,6 @@
                     android:id="@+id/tableRow16"
                     android:layout_height="wrap_content"
                     android:layout_width="match_parent">
-
-                    <TextView
-                        android:id="@+id/TextView161" android:text=""
-                        android:layout_weight="1" android:background="#dcdcdc"
-                        android:textColor="#000000"
-                        android:padding="20dip" android:gravity="center"/>
 
                     <TextView
                         android:id="@+id/TextView162" android:text=""

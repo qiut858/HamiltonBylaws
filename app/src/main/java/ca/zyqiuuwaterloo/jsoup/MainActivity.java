@@ -184,16 +184,17 @@ public class MainActivity extends AppCompatActivity {
                 */
                 TextView parsed_content2;
 
+                /*
                 String first_row = "TextView"+String.valueOf(row_num)+"1";
                 int resID = getResources().getIdentifier(first_row, "id", getPackageName());
                 parsed_content2 = (TextView) findViewById(resID);
                 parsed_content2.setText(a_law.datePassed);
 
+                */
                 String second_row = "TextView"+String.valueOf(row_num)+"2";
                 int resID2 = getResources().getIdentifier(second_row, "id", getPackageName());
                 parsed_content2 = (TextView) findViewById(resID2);
                 parsed_content2.setText(a_law.Description);
-
                 row_num++;
             }
 
