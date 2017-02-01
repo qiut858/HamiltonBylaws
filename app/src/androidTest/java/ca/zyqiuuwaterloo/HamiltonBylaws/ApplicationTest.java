@@ -1,4 +1,4 @@
-package ca.zyqiuuwaterloo.jsoup;
+package ca.zyqiuuwaterloo.HamiltonBylaws;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

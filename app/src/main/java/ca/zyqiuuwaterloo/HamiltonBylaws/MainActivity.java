@@ -1,4 +1,4 @@
-package ca.zyqiuuwaterloo.jsoup;
+package ca.zyqiuuwaterloo.HamiltonBylaws;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,13 +6,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TableLayout;
 import android.widget.TextView;
-import android.content.Intent;
 import android.view.View;
-import android.util.Log;
-import android.view.ViewGroup;
 import android.os.AsyncTask;
 import android.widget.Button;
-import android.widget.EditText;
+
 import java.lang.*;
 
 import org.jsoup.Jsoup;
@@ -20,21 +17,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 import org.jsoup.nodes.Element;
 
-import android.widget.LinearLayout;
-import android.widget.LinearLayout.LayoutParams;
-import android.widget.TableLayout;
-import android.widget.TableRow;
-import android.widget.TextView;
-
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.Reader;
-import java.io.StringWriter;
-import java.io.Writer;
-import java.lang.reflect.Array;
-import java.util.Date;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {

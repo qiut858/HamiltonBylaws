@@ -6,7 +6,35 @@
         jumboMode="false"
         revision="23.0.1"
         sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
-        <dex dex="/Users/tomqiu/Downloads/jSoup/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2-04072bf8b4b7b959e1d57f490169bc44199457de.jar" />
+        <dex dex="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2-04072bf8b4b7b959e1d57f490169bc44199457de.jar" />
+    </item>
+    <item
+        jar="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/pre-dexed/debug/classes-abe5954835d3925d88305a24f36cb9c377ea8187.jar" />
+    </item>
+    <item
+        jar="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/pre-dexed/debug/classes-a594808e93b915e1fad638353d3f4392badc951c.jar" />
+    </item>
+    <item
+        jar="/Users/tomqiu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-f66515f643d0fd6d094cafe3edbbe73c9c4e57e6.jar" />
+    </item>
+    <item
+        jar="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/tomqiu/Downloads/HamiltonBylaws/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c96da6f51af5546b90b39e64fca6b4913d21c4f7.jar" />
     </item>
 
 </items>

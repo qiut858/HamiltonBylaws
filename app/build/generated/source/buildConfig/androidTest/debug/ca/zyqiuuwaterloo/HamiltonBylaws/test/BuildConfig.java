@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package ca.zyqiuuwaterloo.jsoup.test;
+package ca.zyqiuuwaterloo.HamiltonBylaws.test;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");

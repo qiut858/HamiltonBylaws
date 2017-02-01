@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package ca.zyqiuuwaterloo.jsoup;
+package ca.zyqiuuwaterloo.HamiltonBylaws;
 
 public final class R {
     public static final class anim {
